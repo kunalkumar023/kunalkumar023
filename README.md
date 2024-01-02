@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me: <br>
-🔭 Currently I am learing backend.<br><br>👨‍💻 All of my projects are available in my repository<br><br>💬 Ask me about Web Development ,Blockchain ,Smart Contract<br><br>📫 How to reach me kunnu1726@gmail.com
+🔭 Currently I am learing backend.<br><br>👨‍💻 All of my projects are available in my repository<br><br>💬 <br><br>📫 How to reach me kunnu1726@gmail.com
 
 
 ## 🌐 Socials:
