@@ -9,9 +9,8 @@
 🔭 .Languages- C++,Python<br>Familiar with Django. <br>👨‍💻For all my projects visit my repos.<br><br>💬 <br><br>📫 How to reach me kunnu1726@gmail.com
 Or connect on....
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunal_kumar023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-88a176230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kunal_kumar023) 
-
-
+<a href="https://www.instagram.com/kunal__kumar023/">For Instagram</a> 
+<a href="https://www.linkedin.com/in/kunal-kumar-95766a2b3/">For Linkedin</a> 
 ---
 ### Visit my portfolio
 https://kunalkumar023.github.io/portfolio/
